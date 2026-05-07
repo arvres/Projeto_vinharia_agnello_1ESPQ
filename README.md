@@ -5,7 +5,7 @@
 ## 👥 Integrantes
 
 * Pedro Alves
-* Luan Felipe
+* Felipe Luan
 * Caio Maluza
 * Rafaella Pazzanese
 * Anderson Marcolino
