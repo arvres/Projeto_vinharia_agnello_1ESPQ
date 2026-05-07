@@ -109,16 +109,14 @@ Garantir que o ambiente esteja dentro das condições ideais para armazenamento 
 
 ## ▶️ Simulação
 
-📸 *Imagem do circuito:*
+📸 c
 *img *
 
 🔗 **Link do Tinkercad/Wokwi:**
 👉 [link #](https://wokwi.com/projects/463327858697653249)
 
 ---
-
-## 💻 Código do Projeto
-👉 arquivo .ino dentro do repositório "Vinharia_Agenllo.ino"
+## 💻 Código do Projeto dentro do arquivo .ino "Vinharia_Agnello.ino"
 ---
 
 ## 🎥 Vídeo Explicativo
