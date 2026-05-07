@@ -107,9 +107,8 @@ Garantir que o ambiente esteja dentro das condições ideais para armazenamento 
 
 ---
 
-## ▶️ Simulação
-
-📸 <div align="center"> !(imagem.png) </div>
+## 📸 Simulação
+ <div align="center"><img width="657" height="657" alt="circuito" src="https://github.com/user-attachments/assets/bde9af6d-82f7-42b9-b65c-dd9ae79bc652" /> </div>
 
 🔗 **Link do Tinkercad/Wokwi:**
 👉 [link #](https://wokwi.com/projects/463327858697653249)
@@ -128,7 +127,6 @@ Garantir que o ambiente esteja dentro das condições ideais para armazenamento 
 ## 🚧 Desafios Enfrentados
 
 * Integração de múltiplos sensores
-* Controle de tempo com `millis()`
 * Estabilização das leituras (uso de média)
 * Configuração do display LCD
 
