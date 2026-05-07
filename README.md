@@ -109,8 +109,7 @@ Garantir que o ambiente esteja dentro das condições ideais para armazenamento 
 
 ## ▶️ Simulação
 
-📸 c
-*img *
+📸 <div align="center"> !(imagem.png) </div>
 
 🔗 **Link do Tinkercad/Wokwi:**
 👉 [link #](https://wokwi.com/projects/463327858697653249)
