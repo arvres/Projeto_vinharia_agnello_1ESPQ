@@ -2,6 +2,15 @@
 // VINHERIA AGNELLO - MONITORAMENTO INTELIGENTE
 // EDGE COMPUTING & COMPUTER SYSTEMS - CP02
 // ======================================================
+// INTEGRANTES
+// ======================================================
+// Pedro Alves
+// Felipe Luan
+// Caio Maluza
+// Rafaella Pazzanese
+// Anderson Marcolino
+// Kauã Miranda
+// ======================================================
 
 // ================= BIBLIOTECAS =================
 #include <Wire.h>
@@ -45,7 +54,7 @@ byte gota[8] = {
   B11111,
   B11111,
   B11111,
-  B00100,
+  B11111,
   B00000
 };
 
