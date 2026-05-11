@@ -120,7 +120,7 @@ Garantir que o ambiente esteja dentro das condições ideais para armazenamento 
 ## 🎥 Vídeo Explicativo
 
 📺 **Link do vídeo:**
-👉 link #
+👉 [link #](https://youtu.be/VsSmLymesJQ?si=5ONiu4xZRORgzHjy)
 
 ---
 
